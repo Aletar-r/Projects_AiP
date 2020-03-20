@@ -1,4 +1,4 @@
-﻿Build started 14.03.2020 17:51:24.
+﻿Build started 20.03.2020 4:37:21.
      1>Project "C:\Users\1\Desktop\Хлам\Downloads\Documents\Visual Studio 2012\Projects\HW_2_6\HW_2_6\HW_2_6.vcxproj" on node 2 (Rebuild target(s)).
      1>ClCompile:
          D:\рр\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
@@ -10,4 +10,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.51
+Time Elapsed 00:00:02.29

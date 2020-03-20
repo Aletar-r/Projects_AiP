@@ -8,7 +8,7 @@ int main(){
 		int a;
 		float f1, f2;
 		float x, y;
-		const float eps = 0.000001;
+		const float eps = 0.00001;
 		float h;
 		std::cout << "Enter [f1, f2]: ";
 		std::cin>> f1 >> f2;

@@ -1,0 +1,14 @@
+﻿Build started 05.05.2020 16:41:25.
+     1>Project "C:\Users\1\Desktop\Хлам\Downloads\Documents\Visual Studio 2012\Projects\HW_4\HW_4_1-2\HW_4_1-2\HW_4_1-2.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         D:\рр\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\1\desktop\хлам\downloads\documents\visual studio 2012\projects\hw_4\hw_4_1-2\hw_4_1-2\source.cpp(27): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         D:\рр\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1\Desktop\Хлам\Downloads\Documents\Visual Studio 2012\Projects\HW_4\HW_4_1-2\Debug\HW_4_1-2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\1\Desktop\Хлам\Downloads\Documents\Visual Studio 2012\Projects\HW_4\HW_4_1-2\Debug\HW_4_1-2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1\Desktop\Хлам\Downloads\Documents\Visual Studio 2012\Projects\HW_4\HW_4_1-2\Debug\HW_4_1-2.lib" /MACHINE:X86 Debug\Source.obj
+         HW_4_1-2.vcxproj -> C:\Users\1\Desktop\Хлам\Downloads\Documents\Visual Studio 2012\Projects\HW_4\HW_4_1-2\Debug\HW_4_1-2.exe
+     1>Done Building Project "C:\Users\1\Desktop\Хлам\Downloads\Documents\Visual Studio 2012\Projects\HW_4\HW_4_1-2\HW_4_1-2\HW_4_1-2.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.36

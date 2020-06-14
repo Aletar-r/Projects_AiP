@@ -1,6 +1,8 @@
 #include<string>
 #include<iostream>
 
+/* Дан массив строк. Упорядочить массив по длине строк. */
+
 using namespace std;
 
 
